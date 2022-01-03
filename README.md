@@ -19,4 +19,4 @@ The data contains the following columns:
 * 'Price': Price that the house sold at
 * 'Address': Address for the house
 
-![image.png](![image.png](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fb4f6d71572783.5bc9baec7d72c.gif)
+![image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqp5iIvonOPoii-sWXFMjrVZy7CJ3BmtrHkg&usqp=CAU)
