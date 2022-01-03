@@ -19,4 +19,4 @@ The data contains the following columns:
 * 'Price': Price that the house sold at
 * 'Address': Address for the house
 
-![image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqp5iIvonOPoii-sWXFMjrVZy7CJ3BmtrHkg&usqp=CAU)
+![image.png](https://www.thenexthint.com/wp-content/uploads/2021/09/Simple-Hacks-To-Help-You-Not-Undersell-Your-House-990x556.jpg.webp)
